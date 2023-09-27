@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: '991199d',
-  linkedin: 'https://www.linkedin.com/in/dandanlin99/ ',
+  linkedin: 'dandanlin99',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
