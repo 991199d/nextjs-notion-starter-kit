@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'bd5a5e63a3414d20b71da369fa80d506',
+  rootNotionPageId: 'Dandan-Lin-bd5a5e63a3414d20b71da369fa80d506',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'DANDAN web',
-  domain: 'https://www.notion.so/Dandan-Lin-bd5a5e63a3414d20b71da369fa80d506',
+  domain: 'https://www.notion.so/dandanl/Dandan-Lin-bd5a5e63a3414d20b71da369fa80d506',
   author: 'DANDAN LIN',
 
   // open graph metadata (optional)
